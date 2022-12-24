@@ -1,0 +1,1 @@
+Hi there, looks like you just came here to my profile for no reason :hmm: i bet you should click one of the github link in my Discord profile or somewhere else, you wan't anything from me about coding template? here i have it take it.
