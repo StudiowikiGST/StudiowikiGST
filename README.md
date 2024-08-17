@@ -3,7 +3,7 @@ StudiowikiGST at your service, I'm mostly performs and passionate about Roblox a
 🔭 I’m currently working as a Roblox SRT's webservice developer<div>
 🌱 I’m currently learning CSS, HTML, JavaScript, Node.js, PHP<div>
 📫 How to reach me: Discord or Twitter<div>
-⚡ Fun fact: I love playing games and drawing.<div>
+⚡ Fun fact: I love playing games and drawing as well as reading.<div>
 ## Languages:
 I'm excel in JavaScript, Node.js, and Python.	
 ## Tools:
