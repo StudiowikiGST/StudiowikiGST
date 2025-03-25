@@ -4,7 +4,7 @@ StudiowikiGST at your service, I'm mostly performs and passionate about Physic-r
 🌱 I’m currently learning CSS, HTML, Node.js, Rust<div>
 👯 I’m looking for people to partner up and collaborate on both Open and Closed source projects<div>
 📫 How to reach me: <a href="https://discord.gg/5cbv68AZz9">Discord</a><div>
-😄 Pronouns: He/Him)
+😄 Pronouns: He/Him<div>
 ⚡ Fun fact: I love playing games and drawing as well as reading<div>
 ## Languages:
 I'm excel in Node.js, and Lua.	
