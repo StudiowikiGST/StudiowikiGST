@@ -1,10 +1,12 @@
 ## 👋 Hello there
-StudiowikiGST at your service, I'm mostly performs and passionate about Roblox a physic-related sandbox game while also a learning programmer. I love new reasonable technology that popping up everyday I also perform my coding projects privately during my free time.<div>
-🔭 I’m currently working as a Roblox SRT's webservice developer<div>
-🌱 I’m currently learning CSS, HTML, JavaScript, Node.js, PHP<div>
-📫 How to reach me: Discord or Twitter<div>
-⚡ Fun fact: I love playing games and drawing as well as reading.<div>
+StudiowikiGST at your service, I'm mostly performs and passionate about Physic-related sandbox software while also a self-learning programmer. I'm interested in engineering fields and will always care for attention to details as much as possible to ensure highest quality for my projects and life. I also perform my coding projects privately during my free time.<div>
+🔭 I’m currently working as a Roblox TRC's WebService developer<div>
+🌱 I’m currently learning CSS, HTML, Node.js, Rust<div>
+👯 I’m looking for people to partner up and collaborate on both Open and Closed source projects
+📫 How to reach me: <a href="https://discord.gg/5cbv68AZz9">Discord</a><div>
+😄 Pronouns: He/Him)
+⚡ Fun fact: I love playing games and drawing as well as reading<div>
 ## Languages:
-I'm excel in JavaScript, Node.js, and Python.	
+I'm excel in Node.js, and Lua.	
 ## Tools:
-Fedora, Rojo, Roblox Studio, Visual Studio Code, Windows, Git, GitHub.
+Chocolatey, Docker, Fedora, InteliJ, NPM, Railway CLI, Rojo, Roblox Studio, Visual Studio Code, Windows, Git, GitHub
